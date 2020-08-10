@@ -9,4 +9,4 @@ I have over 5 years of commercial web-development experience (wow!) 👀
 ⚡ I solve problems, not playing programming
 ⚡ In my free time I like to play on my PS4 (yes, I'm geek)
 
-You can read about my workling experience [on my website](https://vkhrystych.vercel.app/)
+You can read about my workling experience [on my website](https://vkhrystych.dev)
