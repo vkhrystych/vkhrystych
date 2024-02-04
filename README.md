@@ -3,7 +3,7 @@
 I have been creating user interfaces on React since 2015.
 At this time, I worked for small and large companies and also was a co-founder of the startup. 
 
-I have over 5 years of commercial web-development experience (wow!) 👀
+I have over 9 years of commercial web-development experience (wow!) 👀
 
 ⚡ I really love creating layouts
 ⚡ I solve problems, not playing programming
