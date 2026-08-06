@@ -1,12 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-I have been creating user interfaces on React since 2015.
-At this time, I worked for small and large companies and also was a co-founder of the startup. 
+Full-stack engineer (TypeScript, React, Node). I've been building user interfaces with React since 2015 — for small companies, large ones, and a startup I co-founded along the way.
 
-I have over 9 years of commercial web-development experience (wow!) 👀
+10+ years of commercial web development (wow!) 👀
 
-⚡ I really love creating layouts
-⚡ I solve problems, not playing programming
-⚡ In my free time I like to play on my PS4 (yes, I'm geek)
+⚡ I solve problems, not just write code ⚡ Gamer — PC + Steam Deck (yes, I'm a geek) ⚡ AI lover ⚡ Indie game developer
 
-You can read about my workling experience [on my website](https://vkhrystych.dev)
+## Things I build for fun
+
+- [writejs.io](https://writejs.io) — an online JavaScript playground: code on the left, live console on the right ([source](https://github.com/vkhrystych/writejs.io))
+- [FPV Simulator](https://github.com/vkhrystych/fpv-simulator) — a first-person FPV drone sim on Three.js: no minimap, no markers — just a compass, noisy analog video, and what you remember from the briefing
+- [Claude Menubar](https://github.com/vkhrystych/claude-menubar) — your Claude Code usage, right in the macOS menu bar
+
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/vkhrystych/)
