@@ -9,7 +9,7 @@ Full-stack engineer (TypeScript, React, Node). I've been building user interface
 ## Things I build for fun
 
 - [writejs.io](https://writejs.io) — an online JavaScript playground: code on the left, live console on the right ([source](https://github.com/vkhrystych/writejs.io))
-- [FPV Simulator](https://github.com/vkhrystych/fpv-simulator) — a first-person FPV drone sim on Three.js: no minimap, no markers — just a compass, noisy analog video, and what you remember from the briefing
+- [FPV Simulator](https://vkhrystych.github.io/fpv-simulator/docs/) — a first-person FPV drone sim on Three.js: no minimap, no markers — just a compass, noisy analog video, and what you remember from the briefing
 - [Claude Menubar](https://github.com/vkhrystych/claude-menubar) — your Claude Code usage, right in the macOS menu bar
 
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/vkhrystych/)
